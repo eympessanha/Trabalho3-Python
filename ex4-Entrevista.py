@@ -2,6 +2,12 @@
 # a. Qual o seu clube de futebol de preferência (1 – Flamengo, 2 – Vasco, 3 – Fluminense, 4 – Botafogo, 5 – Outros);
 # b. Qual o seu salário;
 # c. Qual a sua cidade natal (1 – Niterói, 2 – Outra).
+# Para finalizar a entrevista devemos digitar o valor 0 (zero).
+#Escreva um programa que informe:
+#• Número de torcedores por clube;
+#• Média salarial dos torcedores de cada time;
+#• Número de pessoas nascidas em Niterói e que não torcem para nenhum dos principais clubes do Rio;
+#• Número de pessoas entrevistadas.
 
 import os
 
